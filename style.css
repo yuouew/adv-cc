@@ -1,0 +1,21 @@
+h1 {
+    color:red;
+    font-family: 'Nabla', system-ui;
+}
+
+#introduction {
+font-size: 40px;
+font-family: 'Honk', system-ui;
+}
+
+.hobbies {
+    font-weight: bold; 
+}
+
+.content-box {
+    width: 30%;
+    text-align: center;
+    line-height: 80%;
+letter-spacing: 5px;
+}
+
